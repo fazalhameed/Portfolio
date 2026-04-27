@@ -76,7 +76,7 @@ export function HeroSection() {
               className="flex flex-wrap gap-4 justify-center"
             >
               <ButtonLink
-                href="/Fazal-Hameed_Resume.pdf"
+                href={personalInfo?.resumeUrl??"#"}
                 newTab={true}
               >
                 <Download /> Download Resume
