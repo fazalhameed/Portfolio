@@ -1,0 +1,17 @@
+[
+  {
+    "platform": "GitHub",
+    "url": "https://github.com/fazalhameed",
+    "icon": "FaGithub"
+  },
+  {
+    "platform": "LinkedIn",
+    "url": "https://www.linkedin.com/in/fazal-hameed-/",
+    "icon": "FaLinkedinIn"
+  },
+  {
+    "platform": "Portfolio",
+    "url": "https://jaffer.vercel.app",
+    "icon": "FaGlobe"
+  }
+]

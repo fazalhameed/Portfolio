@@ -1,0 +1,199 @@
+[
+  {
+    "id": "project-1",
+    "title": "Home Automation System – BLE Mesh with Multi-Network Gateway",
+    "description": "A comprehensive home automation system utilizing Bluetooth Low Energy (BLE) mesh networking, integrated with a multi-network gateway for seamless control and monitoring.",
+    "longDescription": "Designed and developed a home automation system leveraging Bluetooth Low Energy (BLE) mesh networking to enable seamless communication between various smart devices. The system includes a multi-network gateway that integrates BLE mesh with Wi-Fi and LoRa communication protocols, allowing users to control and monitor their smart home devices remotely through a centralized interface. The project involved designing custom PCBs, developing embedded firmware for ESP32 microcontrollers, and implementing a user-friendly mobile application for real-time device management and automation.",
+    "tags": [
+      "C",
+      "C++",
+      "Embedded C",
+      "ESP32",
+      "BLE Mesh Networking",
+      "Wi-Fi Integration",
+      "LoRa Communication",
+      "Multi-Network Gateway",
+      "Home Automation",
+      "IoT Systems"
+    ],
+    "imageUrl": "/ble_hub.png",
+    "liveUrl": "",
+    "githubUrl": "",
+    "featured": false
+  },
+  {
+    "id": "project-2",
+    "title": "Smart Street Lighting System – BLE Mesh Network",
+    "description": "A smart street lighting system utilizing Bluetooth Low Energy (BLE) mesh networking for efficient energy management and remote control.",
+    "longDescription": "Developed a smart street lighting system that utilizes Bluetooth Low Energy (BLE) mesh networking to enable efficient energy management and remote control of streetlights. The system allows for real-time monitoring of light status, energy consumption, and environmental conditions through integrated sensors. Users can remotely control the streetlights, set schedules, and receive alerts for maintenance needs via a mobile application. The project involved designing custom PCBs, developing embedded firmware for ESP32 microcontrollers, and implementing a scalable BLE mesh network to support a large number of devices across a city-wide deployment.",
+    "tags": [
+      "C",
+      "C++",
+      "Embedded C",
+      "ESP32",
+      "BLE Mesh Networking",
+      "Energy Management",
+      "Remote Control",
+      "IoT Systems",
+      "Smart City Solutions"
+    ],
+    "imageUrl": "/street-light.png",
+    "liveUrl": "",
+    "githubUrl": "",
+    "featured": true
+  },
+  {
+    "id": "project-3",
+    "title": "Temperature & Humidity Sensor Node",
+    "description": "A compact sensor node designed for monitoring temperature and humidity levels, utilizing ESP32 microcontroller and BLE communication.",
+    "longDescription": "Designed and developed an ESP32-based environmental monitoring node for real-time temperature and humidity tracking. Integrated sensor for accurate environmental data acquisition. Implemented BLE and Wi-Fi provisioning for mobile-based setup, monitoring, and alerts.",
+    "tags": [
+      "C",
+      "C++",
+      "Embedded C",
+      "ESP32",
+      "Temperature Sensor",
+      "Humidity Sensor",
+      "BLE Communication",
+      "Wi-Fi Connectivity",
+      "IoT Systems"
+    ],
+    "imageUrl": "/temp-humid.png",
+    "liveUrl": "",
+    "githubUrl": "",
+    "featured": true
+  },
+  {
+    "id": "project-4",
+    "title": "Environmental Safety Node (CO + Temp/Humidity)",
+    "description": "An environmental safety node designed to monitor carbon monoxide levels along with temperature and humidity, utilizing ESP32 microcontroller and BLE communication.",
+    "longDescription": "Developed an ESP32-based environmental safety system integrating CO gas, temperature, and humidity monitoring. Used HDC2080 and CO sensor for real-time air quality detection. Added a compact OLED display for live sensor visualization. Implemented threshold-based alerts using buzzer and LED indicators, along with BLE and Wi-Fi connectivity for remote monitoring and device configuration.",
+    "tags": [
+      "C",
+      "C++",
+      "Embedded C",
+      "ESP32",
+      "CO Sensor",
+      "Temperature Sensor",
+      "Humidity Sensor",
+      "BLE Communication",
+      "Wi-Fi Connectivity",
+      "IoT Systems",
+      "Environmental Safety"
+    ],
+    "imageUrl": "/co-tem.png",
+    "liveUrl": "",
+    "githubUrl": "",
+    "featured": true
+  },
+  {
+    "id": "project-5",
+    "title": "Smart Circuit Breaker with Mobile App Monitoring",
+    "description": "A smart circuit breaker system that allows users to monitor and control their electrical circuits remotely through a mobile application, utilizing ESP32 microcontroller and BLE communication.",
+    "longDescription": "Designed and developed a smart circuit breaker with real-time monitoring of voltage, current, and power. Implemented threshold-based protection for over-voltage and over-current with automatic tripping for safety. Integrated a 7-segment display and button-based interface for live data and configuration. Enabled mobile app connectivity for remote monitoring and control.",
+    "tags": [
+      "C",
+      "C++",
+      "Embedded C",
+      "ESP32",
+      "Circuit Breaker",
+      "Voltage Monitoring",
+      "Current Monitoring",
+      "Power Monitoring",
+      "BLE Communication",
+      "Mobile App Integration",
+      "IoT Systems"
+    ],
+    "imageUrl": "/breaker.png",
+    "liveUrl": "",
+    "githubUrl": "",
+    "featured": true
+  },
+  {
+    "id": "project-6",
+    "title": "Spinnik - Magnetic Spin Counter with E-Paper Display and STM32",
+    "description": "A magnetic spin counter system that utilizes an STM32 microcontroller and a Wiegand sensor to track spin activity, with real-time feedback displayed on an e-paper screen.",
+    "longDescription": "Developed a magnetic spin counter using STM32 and a Wiegand sensor with a custom PCB design. Integrated an e-paper display to provide dynamic graphical feedback, visualizing user interaction from “Sad to Happy” based on spin activity. Implemented state-based tracking for spin speed, turn count, and high score, along with button controls for reset and mode selection. Designed an interactive and engaging embedded system with real-time data visualization and efficient firmware handling.",
+    "tags": [
+      "C",
+      "C++",
+      "Embedded C",
+      "STM32",
+      "Wiegand Sensor",
+      "E-Paper Display",
+      "Spin Counter",
+      "Real-Time Feedback",
+      "Interactive Embedded Systems"
+    ],
+    "imageUrl": "/spinik.png",
+    "liveUrl": "",
+    "githubUrl": "https://github.com/fazalhameed/Spinnik-Magnetic-Counter-",
+    "featured": true
+  },
+  {
+    "id": "project-7",
+    "title": "Microwave Oven Timer Control System",
+    "description": "A microwave oven timer control system designed using the STC89C52RC microcontroller, featuring a 16x2 LCD for countdown display and a 4x4 keypad for user input.",
+    "longDescription": "Developed a microwave oven timer control system using STC89C52RC with Keil. Implemented a 16x2 LCD for countdown display and a 4x4 keypad for user input with safety checks. Controlled operation via relay and buzzer alerts. Used timer interrupts and a state machine (STATE_INITIAL, STATE_ENTER_TIME, STATE_RUNNING, STATE_STOP) for structured and reliable firmware design.",
+    "tags": [
+      "C",
+      "Embedded C",
+      "STC89C52RC Microcontroller",
+      "Keil μVision",
+      "16x2 LCD",
+      "4x4 Keypad",
+      "Timer Interrupts",
+      "State Machine Design",
+      "Microwave Oven Control System"
+    ],
+    "imageUrl": "",
+    "liveUrl": "",
+    "githubUrl": "https://github.com/fazalhameed/-Microwave-oven-timer-using-8051-Microcontroller",
+    "featured": false
+  },
+  {
+    "id": "project-8",
+    "title": "Advance Digital Door Lock System",
+    "description": "An advanced digital door lock system utilizing a keypad and LCD interface for secure access control, implemented with an 8051 microcontroller.",
+    "longDescription": "Designed and developed a digital door lock system using a keypad and LCD interface. Implemented secure 6-digit password authentication with EEPROM storage for persistent access. Controlled a servo motor for door unlocking with automatic re-lock after 5 seconds. Added security features including wrong password detection, buzzer alert after multiple failed attempts, and password change functionality via long-press input with secure EEPROM update.",
+    "tags": [
+      "C",
+      "Embedded C",
+      "8051 Microcontroller",
+      "Keypad Interface",
+      "LCD Display",
+      "EEPROM Storage",
+      "Servo Motor Control",
+      "Password Authentication",
+      "Access Control System"
+    ],
+    "imageUrl": "",
+    "liveUrl": "",
+    "githubUrl": "https://github.com/fazalhameed/Digital-Door-Lock-System-using-8051-Microcontroller",
+    "featured": true
+  },
+  {
+    "id": "project-9",
+    "title": "Flood Monitoring System Using Wireless Sensors Network (WSN) And Internet Of Things (IOT) |",
+    "description": "A flood monitoring system designed for real-time environmental data acquisition and early flood detection, utilizing wireless sensor networks (WSN) and Internet of Things (IoT) technologies.",
+    "longDescription": "Developed a Flood Monitoring System as Final Year Project using Wireless Sensor Networks (WSN) and IoT technologies for real-time environmental data acquisition and early flood detection. Integrated distributed sensor nodes with IoT connectivity to enable continuous monitoring and remote access to critical flood indicators. Designed the system to support proactive disaster management by improving early warning capabilities and response time. The project focused on reliable data transmission, real-time monitoring, and enhancing flood preparedness through an efficient embedded and IoT-based architecture.",
+    "tags": [
+      "C",
+      "C++",
+      "Embedded C,C++",
+      "Arduino UNO",
+      "Wireless Sensor Networks (WSN)",
+      "Zigbee Communication",
+      "Internet of Things (IoT)",
+      "Real-Time Monitoring",
+      "Flood Detection",
+      "Sensors Integration",
+      "Disaster Management"
+    ],
+    "imageUrl": "",
+    "liveUrl": "",
+    "githubUrl": "https://github.com/fazalhameed/FYP-Flood-Monitoring-System-Using-WSN-IOT-",
+    "featured": true
+  }
+
+]

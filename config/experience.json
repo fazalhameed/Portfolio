@@ -1,0 +1,140 @@
+[
+  {
+    "id": "exp-1",
+    "company": "Bluell AB",
+    "location": "Rawalpindi, Pakistan",
+    "position": "Embedded System Developer",
+    "duration": "Dec 2024 - Present",
+    "isCurrent": true,
+    "startDate": "2024-12-03",
+    "description": "Embedded Systems Engineer working on environmental monitoring and IoT automation solutions. Designed and developed embedded systems integrating multiple sensors (gas, temperature, humidity, flow) for real-time data acquisition. Built smart circuit breakers, home automation devices, and BLE Mesh–based smart lighting systems. Experienced in ESP32, STM32, Wi-Fi, BLE, RF, and LoRa communication, along with PCB design and embedded firmware optimization for reliable and scalable industrial applications.",
+    "technologies": [
+      "C",
+      "C++",
+      "Embedded C",
+      "ESP32",
+      "STM32",
+      "FreeRTOS / Zephyr RTOS",
+      "MQTT",
+      "Wi-Fi",
+      "Bluetooth Low Energy (BLE)",
+      "LoRa Communication",
+      "I2C / SPI / UART Protocols",
+      "Sensor Integration"
+    ],
+
+    "type": "work"
+  },
+  {
+    "id": "exp-2",
+    "company": "Chip Soul Technology [SMC] Private Limited",
+    "location": "Peshawar, Pakistan",
+    "position": "Embedded System Engineer",
+    "duration": "Dec 2023 - Dec 2024",
+    "isCurrent": false,
+    "startDate": "2023-12-18",
+    "description": "Embedded Systems Engineer with experience in 8051 and STM32 microcontrollers, developing real-time applications including sensor integration, motor control, and LCD interfacing. Built FreeRTOS-based systems with I2C, SD card, BLE, and Wi-Fi connectivity, along with low-power optimization and embedded firmware development.",
+    "technologies": [
+      "C",
+      "C++",
+      "8051 Microcontroller",
+      "STM32 Microcontroller",
+      "FreeRTOS",
+      "I2C Protocol",
+      "SD Card Interface",
+      "Bluetooth Low Energy (BLE)",
+      "Wi-Fi Connectivity",
+      "Low-Power Optimization",
+      "Embedded Firmware Development"
+    ],
+   
+    "type": "work"
+  },
+  {
+    "id": "exp-3",
+    "company": "Center for Intelligent and Network Research (CISNR)",
+    "location": "Peshawar, Pakistan",
+    "position": "Trainee Embedded System Engineer",
+    "duration": "July 2023 - Sep 2023",
+    "isCurrent": false,
+    "startDate": "2023-07-01",
+    "endDate": "2023-19-01",
+    "description": "Trainee Embedded Systems Engineer with hands-on experience in C programming for embedded applications. Worked on Arduino-based development, LCD interfacing, and I2C communication. Gained practical experience with components like DC fans and motors, focusing on stepper and DC motor control. Contributed to a plant incubator automation project involving sensing, control, and embedded system integration.",
+    "technologies": [
+      "C Programming",
+      "Arduino Development",
+      "LCD Interfacing",
+      "I2C Communication",
+      "DC Fan Control",
+      "Stepper Motor Control",
+      "DC Motor Control",
+      "Plant Incubator Automation"
+    ],
+  
+    "type": "work"
+  },
+  {
+    "id": "exp-4",
+    "company": "PESCO (WAPDA)",
+    "location": "Pabbi, Pakistan",
+    "position": "Trainee Electrical Engineer",
+    "duration": "Sep 2021 - Nov 2021",
+    "startDate": "2021-09-01",
+    "isCurrent": false,
+    "endDate": "2021-09-01",
+    "description": "Trainee Electrical Engineer with exposure to power system fundamentals, including operation, safety protocols, and power distribution. Gained practical understanding of distribution transformers, transmission lines, and grid station equipment. Observed maintenance activities in 500KV, 220KV, and 132KV substations, including yard and transformer systems. Developed knowledge of electrical safety, system reliability, and the importance of preventive maintenance in power distribution networks.",
+    "technologies": [
+      "Power System Fundamentals",
+      "Distribution Transformers",
+      "Transmission Lines",
+      "Grid Station Equipment",
+      "Electrical Safety Protocols",
+      "Substation Maintenance",
+      "Preventive Maintenance"
+    ],
+
+    "type": "work"
+  },
+  {
+    "id": "exp-5",
+    "company": "University of Engineering and Technology Peshawar",
+    "position": "Bachelor of Science in Electrical Engineering",
+    "duration": "Oct 2019 - Oct 2023",
+    "startDate": "2019-10-01",
+    "endDate": "2023-10-26",
+    "description": "Bachelor of Science in Electrical Engineering with a focus on embedded systems, microcontroller programming, and IoT applications. Completed coursework in digital logic design, microprocessors, and control systems. Engaged in projects involving sensor integration, motor control, and real-time operating systems. Developed strong programming skills in C/C++ and gained practical experience with platforms like Arduino and Raspberry Pi. Graduated with a solid foundation in electrical engineering principles and hands-on experience in embedded system development.",
+    "technologies": [
+      "Embedded Systems",
+      "Microcontroller Programming",
+      "IoT Applications",
+      "Digital Logic Design",
+      "Microprocessors",
+      "Control Systems",
+      "C/C++ Programming",
+      "Arduino"
+    ],
+    "type": "education"
+  },
+  { 
+    "id": "exp-6",
+    "company": "Government Polytechnic Institute Sardar Garhi",
+    "location": "Peshawar, Pakistan",
+    "position": "DAE, ELECTRICAL",
+    "duration": "Aug 2016 - April 2019",
+    "isCurrent": false,
+    "startDate": "2016-08-01",
+    "endDate": "2019-04-20",
+    "description": "Diploma of Associate Engineering (DAE) in Electrical Engineering with a focus on electrical systems, power distribution, and maintenance. Completed coursework in electrical circuits, power systems, and electrical machines. Gained practical experience through hands-on training in electrical wiring, circuit design, and equipment maintenance. Developed a strong foundation in electrical engineering principles and practical skills for working with electrical systems in various applications.",
+    "technologies": [
+      "Electrical Systems",
+      "Power Distribution",
+      "Electrical Circuits",
+      "Electrical Machines",
+      "Circuit Design",
+      "Equipment Maintenance"
+    ],
+  
+    "type": "education"
+  }
+
+]
