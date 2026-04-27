@@ -14,9 +14,10 @@
       "LoRa Communication",
       "Multi-Network Gateway",
       "Home Automation",
+      "Smart street lighting system",
       "IoT Systems"
     ],
-    "imageUrl": "/ble_hub.png",
+    "imageUrl": "/hub.png",
     "liveUrl": "",
     "githubUrl": "",
     "featured": false
@@ -37,7 +38,7 @@
       "IoT Systems",
       "Smart City Solutions"
     ],
-    "imageUrl": "/street-light.png",
+    "imageUrl": "/street_light.png",
     "liveUrl": "",
     "githubUrl": "",
     "featured": true
@@ -58,7 +59,7 @@
       "Wi-Fi Connectivity",
       "IoT Systems"
     ],
-    "imageUrl": "/temp-humid.png",
+    "imageUrl": "/temp.png",
     "liveUrl": "",
     "githubUrl": "",
     "featured": true
@@ -81,7 +82,7 @@
       "IoT Systems",
       "Environmental Safety"
     ],
-    "imageUrl": "/co-tem.png",
+    "imageUrl": "/co_tem.png",
     "liveUrl": "",
     "githubUrl": "",
     "featured": true
@@ -104,7 +105,7 @@
       "Mobile App Integration",
       "IoT Systems"
     ],
-    "imageUrl": "/breaker.png",
+    "imageUrl": "/smart-breaker.png",
     "liveUrl": "",
     "githubUrl": "",
     "featured": true
@@ -125,7 +126,7 @@
       "Real-Time Feedback",
       "Interactive Embedded Systems"
     ],
-    "imageUrl": "/spinik.png",
+    "imageUrl": "/spinnik.png",
     "liveUrl": "",
     "githubUrl": "https://github.com/fazalhameed/Spinnik-Magnetic-Counter-",
     "featured": true
@@ -146,7 +147,7 @@
       "State Machine Design",
       "Microwave Oven Control System"
     ],
-    "imageUrl": "",
+    "imageUrl": "/oven.png",
     "liveUrl": "",
     "githubUrl": "https://github.com/fazalhameed/-Microwave-oven-timer-using-8051-Microcontroller",
     "featured": false
@@ -167,7 +168,7 @@
       "Password Authentication",
       "Access Control System"
     ],
-    "imageUrl": "",
+    "imageUrl": "/lock.png",
     "liveUrl": "",
     "githubUrl": "https://github.com/fazalhameed/Digital-Door-Lock-System-using-8051-Microcontroller",
     "featured": true
@@ -190,10 +191,56 @@
       "Sensors Integration",
       "Disaster Management"
     ],
-    "imageUrl": "",
+    "imageUrl": "/fyp.png",
     "liveUrl": "",
     "githubUrl": "https://github.com/fazalhameed/FYP-Flood-Monitoring-System-Using-WSN-IOT-",
     "featured": true
+  },
+ {
+    "id": "project-10",
+    "title": "STM32 Embedded Systems Development & Hardware Interfacing",
+    "description": "Developed multiple STM32-based embedded applications covering GPIO control, sensor integration, communication protocols, RTOS concepts, and external storage interfacing.",
+    "longDescription": "Designed and implemented various embedded applications using STM32 microcontrollers, demonstrating proficiency in GPIO control, sensor integration, communication protocols (I2C, SPI, UART), RTOS concepts (FreeRTOS), and external storage interfacing (SD card). Developed projects included a temperature and humidity monitoring system with real-time data logging to an SD card, a BLE-based environmental sensor node for remote monitoring, and a FreeRTOS-based multitasking application showcasing task scheduling and inter-task communication. These projects highlight expertise in embedded systems development, hardware interfacing, and real-time operating system implementation.",
+    "tags": [
+      "C",
+      "C++",
+      "Embedded C",
+      "STM32 Microcontroller",
+      "GPIO Control",
+      "Sensor Integration",
+      "I2C Communication",
+      "SPI Communication",
+      "UART Communication",
+      "HAL Drivers",
+      "Hardware Interfacing",
+      "FreeRTOS Concepts",
+      "SD Card Interfacing"
+    ],
+    "imageUrl": "/stm.png",
+    "liveUrl": "",
+    "githubUrl": "https://github.com/fazalhameed/STM32F303-Projects",
+    "featured": true
+  },
+   {
+    "id": "project-11",
+    "title": "STC89C52(8051) Microcontroller Training Projects",
+    "description": " A collection of embedded C training projects developed on the STC89C52 microcontroller to practice GPIO control, button interfacing, timers, interrupts, display interfacing, and serial communication.",
+    "longDescription": "Developed a series of foundational embedded systems projects using the STC89C52 microcontroller as part of my early microcontroller training. The projects covered essential concepts including LED blinking, LED pattern generation, button interfacing using polling and interrupts, timer-based delays, timer interrupts, switch debouncing, seven-segment display interfacing, LCD interfacing, and serial communication with a PC. This work helped build a strong understanding of embedded C programming, hardware interfacing, interrupt handling, timing control, and microcontroller-based system design.",
+    "tags": [
+      "C",
+      "Embedded C",
+      "STC89C52 Microcontroller",
+      "GPIO Control",
+      "Button Interfacing",
+      "Timers and Interrupts",
+      "Seven-Segment Display",
+      "LCD Interfacing",
+      "Keil μVision",
+      "Serial Communication"
+    ],
+    "imageUrl": "/stc.png",
+    "liveUrl": "",
+    "githubUrl": "https://github.com/fazalhameed/STC89C52-MCU-Training-",
+    "featured": true
   }
-
 ]
