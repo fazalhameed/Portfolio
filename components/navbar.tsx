@@ -90,7 +90,7 @@ export function Navbar() {
               src="/light-logo.png"
               alt="shamim-logo-light"
             />
-            {personalInfo.name.split(" ")[1]}{" "}
+            {personalInfo.name.split(" ")[0]}{" "}
             <span className="text-primary">
               {personalInfo.name.split(" ")[2] || ""}
             </span>
