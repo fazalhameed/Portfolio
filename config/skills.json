@@ -35,7 +35,7 @@
     "category": "microcontrollers"
   },
   {
-    "name": "FreeRTOS",
+    "name": "FreeRTOS, Zephyr RTOS",
     "level": 85,
     "category": "rtos"
   },
@@ -97,6 +97,11 @@
   {
     "name": "VS Code",
     "level": 92,
+    "category": "tools"
+  },
+    {
+    "name": "Altium Designer",
+    "level": 80,
     "category": "tools"
   },
   {
